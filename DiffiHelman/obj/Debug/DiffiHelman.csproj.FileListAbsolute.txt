@@ -1,0 +1,39 @@
+C:\Users\dikap\source\repos\DiffiHelman\DiffiHelman\bin\Debug\DiffiHelman.exe.config
+C:\Users\dikap\source\repos\DiffiHelman\DiffiHelman\bin\Debug\DiffiHelman.exe
+C:\Users\dikap\source\repos\DiffiHelman\DiffiHelman\bin\Debug\DiffiHelman.pdb
+C:\Users\dikap\source\repos\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.csproj.AssemblyReference.cache
+C:\Users\dikap\source\repos\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.csproj.SuggestedBindingRedirects.cache
+C:\Users\dikap\source\repos\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.Form1.resources
+C:\Users\dikap\source\repos\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.Properties.Resources.resources
+C:\Users\dikap\source\repos\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.csproj.GenerateResource.cache
+C:\Users\dikap\source\repos\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.csproj.CoreCompileInputs.cache
+C:\Users\dikap\source\repos\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.exe
+C:\Users\dikap\source\repos\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.pdb
+C:\Users\dikap\source\repos\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.Form2.resources
+C:\Users\dikap\source\repos\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.Form3.resources
+E:\DiffiHelman\DiffiHelman\bin\Debug\DiffiHelman.exe.config
+E:\DiffiHelman\DiffiHelman\bin\Debug\DiffiHelman.exe
+E:\DiffiHelman\DiffiHelman\bin\Debug\DiffiHelman.pdb
+E:\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.csproj.AssemblyReference.cache
+E:\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.csproj.SuggestedBindingRedirects.cache
+E:\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.Form1.resources
+E:\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.Form2.resources
+E:\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.Form3.resources
+E:\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.Properties.Resources.resources
+E:\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.csproj.GenerateResource.cache
+E:\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.csproj.CoreCompileInputs.cache
+E:\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.exe
+E:\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.pdb
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\bin\Debug\DiffiHelman.exe.config
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\bin\Debug\DiffiHelman.exe
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\bin\Debug\DiffiHelman.pdb
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.csproj.AssemblyReference.cache
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.csproj.SuggestedBindingRedirects.cache
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.Form1.resources
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.Form2.resources
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.Form3.resources
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.Properties.Resources.resources
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.csproj.GenerateResource.cache
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.csproj.CoreCompileInputs.cache
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.exe
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Debug\DiffiHelman.pdb
