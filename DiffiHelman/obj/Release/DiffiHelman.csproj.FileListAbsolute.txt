@@ -1,0 +1,13 @@
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Release\DiffiHelman.csproj.AssemblyReference.cache
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Release\DiffiHelman.csproj.SuggestedBindingRedirects.cache
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Release\DiffiHelman.Form1.resources
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Release\DiffiHelman.Form2.resources
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Release\DiffiHelman.Form3.resources
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Release\DiffiHelman.Properties.Resources.resources
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Release\DiffiHelman.csproj.GenerateResource.cache
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Release\DiffiHelman.csproj.CoreCompileInputs.cache
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\bin\Release\DiffiHelman.exe.config
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\bin\Release\DiffiHelman.exe
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\bin\Release\DiffiHelman.pdb
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Release\DiffiHelman.exe
+C:\Users\dikap\OneDrive\Рабочий стол\Новая папка\DiffiHelman\DiffiHelman\obj\Release\DiffiHelman.pdb

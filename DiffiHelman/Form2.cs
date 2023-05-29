@@ -4,6 +4,7 @@ using System.Numerics;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Windows.Forms.DataVisualization.Charting;
 
 namespace DiffiHelman
 {
@@ -31,6 +32,7 @@ namespace DiffiHelman
             {
                 var Y = y.Select((element, index) => new KeyValuePair<uint, int>(element, index)).Where((elem) => elem.Key == x[i]).Select((element) => element.Value).ToList();
                 Y.ForEach((elem) => chart1.Series[0].Points.AddXY(i, elem));
+                    
             }
         }
     }
